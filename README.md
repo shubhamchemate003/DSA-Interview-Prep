@@ -9,9 +9,9 @@
 - [x] Stock Buy and Sell
 
 ### Day-2: Arrays-II
-- [ ] [Rotate Matrix](/Matrix&#32;Rotation.md)
-- [ ] Merge Overlapping Subintervals [Problem](https://leetcode.com/problems/merge-intervals/)
+- [ ] Rotate Matrix [Problem](https://leetcode.com/problems/rotate-image/) [Solution Approaches](/Matrix&#32;Rotation.md)
+- [x] Merge Overlapping Subintervals [Problem](https://leetcode.com/problems/merge-intervals/)
 - [ ] Merge two sorted Arrays without extra space
-- [ ] Find the duplicate in an array of N+1 integers.
-- [ ] Repeat and Missing Number
+- [x] Find the duplicate in an array of N+1 integers. [Problem](https://leetcode.com/problems/find-the-duplicate-number/)
+- [ ] Repeat and Missing Number [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 - [ ] Inversion of Array (Pre-req: Merge Sort)
