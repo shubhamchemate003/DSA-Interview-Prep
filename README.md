@@ -13,5 +13,5 @@
 - [x] Merge Overlapping Subintervals [Problem](https://leetcode.com/problems/merge-intervals/)
 - [ ] Merge two sorted Arrays without extra space
 - [x] Find the duplicate in an array of N+1 integers. [Problem](https://leetcode.com/problems/find-the-duplicate-number/)
-- [ ] Repeat and Missing Number [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
+- [x] Repeat and Missing Number [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 - [ ] Inversion of Array (Pre-req: Merge Sort)
