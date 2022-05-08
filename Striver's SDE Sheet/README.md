@@ -15,3 +15,51 @@
 - [x] Find the duplicate in an array of N+1 integers. [Problem](https://leetcode.com/problems/find-the-duplicate-number/)
 - [x] Repeat and Missing Number [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
 - [ ] Inversion of Array (Pre-req: Merge Sort)
+
+### Day-3: Arrays-III
+- [ ] Search in a 2d Matrix
+- [ ] pow(x, n)
+- [ ] Majority Element (>N/2 times)
+- [ ] Majority Element (>N/3 times)
+- [ ] Grid Unique Paths
+- [ ] Reverse Pairs (Leetcode)
+
+### Day-4: Arrays-IV
+- [ ] 2-Sum-Problem
+- [ ] 4-sum-Problem
+- [ ] Longest Consecutive Sequence
+- [ ] Largest Subarray with 0 sum
+- [ ] Count number of subarrays with given Xor K
+- [ ] Longest Substring without repeat
+
+### Day-5: Linked List Part-I
+- [ ] Reverse a LinkedList
+  [ ] Find the middle of LinkedList
+- [ ] Merge two sorted Linked List (use method used in mergeSort)
+- [ ] Remove N-th node from back of LinkedList
+- [ ] Add two numbers as LinkedList
+- [ ] Delete a given Node when a node is given.(0(1) solution)
+
+### Day-6: Linked List Part-II
+- [ ] Find intersection point of Y LinkedList
+- [ ] Detect a cycle in Linked List
+- [ ] Reverse a LinkedList in groups of size k.
+- [ ] Check if a LinkedList is palindrome or not.
+- [ ] Find the starting point of the Loop of LinkedList
+- [ ] Flattening of a LinkedList
+
+### Day-7: Linked List and Arrays
+- [ ] Rotate a LinkedList
+- [ ] Clone a Linked List with random and next pointer
+- [ ] 3 sum
+- [ ] Trapping rainwater
+- [ ] Remove Duplicate from Sorted array
+- [ ] Max consecutive ones
+
+### Day-8: Greedy Algorithm
+- [ ] N meetings in one room
+- [ ] Minimum number of platforms required for a railway
+- [ ] Job sequencing Problem
+- [ ] Fractional Knapsack Problem
+- [ ] Greedy algorithm to find minimum number of coins
+- [ ] Activity Selection (it is the same as N meeting in one room)
