@@ -1,6 +1,6 @@
 ## Approach-1
 [Editorial Link](https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/)  
-[Solution Link](https://leetcode.com/problems/rotate-image/)  
+[Solution Link](https://leetcode.com/submissions/detail/697473102/)  
 
 - Divide the elements into squares or cycles for eg. 4\*4 matrix will have 2 cycles, 3\*3 will have 2 cycles etc.
 - For each square cycle rotate group of four elements repeatedly
