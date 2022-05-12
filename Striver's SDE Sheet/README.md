@@ -22,7 +22,7 @@
 - [x] Majority Element (>N/2 times) | [Problem](https://leetcode.com/problems/majority-element/) | [Solution Approaches](/Majority&#32;Element.md)
 - [x] Majority Element (>N/3 times) | [Problem]() | [Solution Approaches](/Majority&#32;Element&#32;II.md)
 - [x] Grid Unique Paths | [Problem](https://leetcode.com/problems/unique-paths/)
-- [] Reverse Pairs (Leetcode) | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution Apporaches](/Reverse&#32;Pairs.md)
+- [ ] Reverse Pairs (Leetcode) | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution Apporaches](/Reverse&#32;Pairs.md)
 
 ### Day-4: Arrays-IV
 - [ ] 2-Sum-Problem
