@@ -9,15 +9,15 @@
 - [x] Stock Buy and Sell
 
 ### Day-2: Arrays-II
-- [x] Rotate Matrix [Problem](https://leetcode.com/problems/rotate-image/) [Solution Approaches](/Matrix&#32;Rotation.md)
-- [x] Merge Overlapping Subintervals [Problem](https://leetcode.com/problems/merge-intervals/)
-- [x] Merge two sorted Arrays without extra space [Problem](https://leetcode.com/problems/merge-sorted-array/)
-- [x] Find the duplicate in an array of N+1 integers. [Problem](https://leetcode.com/problems/find-the-duplicate-number/)
-- [x] Repeat and Missing Number [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
-- [x] Inversion of Array (Pre-req: Merge Sort) [Problem](https://www.codingninjas.com/codestudio/problems/count-inversions_615)
+- [x] Rotate Matrix | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution Approaches](/Matrix&#32;Rotation.md)
+- [x] Merge Overlapping Subintervals | [Problem](https://leetcode.com/problems/merge-intervals/)
+- [x] Merge two sorted Arrays without extra space | [Problem](https://leetcode.com/problems/merge-sorted-array/)
+- [x] Find the duplicate in an array of N+1 integers | [Problem](https://leetcode.com/problems/find-the-duplicate-number/)
+- [x] Repeat and Missing Number | [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
+- [x] Inversion of Array (Pre-req: Merge Sort) | [Problem](https://www.codingninjas.com/codestudio/problems/count-inversions_615)
 
 ### Day-3: Arrays-III
-- [x] Search in a 2d Matrix [Problem](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] Search in a 2d Matrix | [Problem](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] pow(x, n) [Problem](https://leetcode.com/problems/powx-n/) | [Recursive](https://leetcode.com/submissions/detail/697485954/) and Iterative
 - [ ] Majority Element (>N/2 times)
 - [ ] Majority Element (>N/3 times)
