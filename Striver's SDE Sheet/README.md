@@ -18,11 +18,11 @@
 
 ### Day-3: Arrays-III
 - [x] Search in a 2d Matrix | [Problem](https://leetcode.com/problems/search-a-2d-matrix/)
-- [x] pow(x, n) [Problem](https://leetcode.com/problems/powx-n/) | [Recursive](https://leetcode.com/submissions/detail/697485954/) and Iterative
-- [ ] Majority Element (>N/2 times)
-- [ ] Majority Element (>N/3 times)
-- [ ] Grid Unique Paths
-- [ ] Reverse Pairs (Leetcode)
+- [x] pow(x, n) [Problem](https://leetcode.com/problems/powx-n/) | [Recursive](https://leetcode.com/submissions/detail/697485954/) and [Iterative](https://leetcode.com/submissions/detail/698092384/)
+- [x] Majority Element (>N/2 times) | [Problem](https://leetcode.com/problems/majority-element/) | [Solution Approaches](/Majority&#32;Element.md)
+- [x] Majority Element (>N/3 times) | [Problem]() | [Solution Approaches](/Majority&#32;Element&#32;II.md)
+- [x] Grid Unique Paths | [Problem](https://leetcode.com/problems/unique-paths/)
+- [] Reverse Pairs (Leetcode) | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution Apporaches](/Reverse&#32;Pairs.md)
 
 ### Day-4: Arrays-IV
 - [ ] 2-Sum-Problem
