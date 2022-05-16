@@ -25,12 +25,12 @@
 - [ ] Reverse Pairs (Leetcode) | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution Apporaches](/Reverse&#32;Pairs.md)
 
 ### Day-4: Arrays-IV
-- [ ] 2-Sum-Problem
-- [ ] 4-sum-Problem
-- [ ] Longest Consecutive Sequence
-- [ ] Largest Subarray with 0 sum
-- [ ] Count number of subarrays with given Xor K
-- [ ] Longest Substring without repeat
+- [x] 2-Sum-Problem | [Problem](https://leetcode.com/problems/two-sum/)
+- [x] 4-sum-Problem | [Problem](https://leetcode.com/problems/4sum/)
+- [ ] Longest Consecutive Sequence | [Problem](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [x] Largest Subarray with 0 sum | [Problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+- [x] Count number of subarrays with given Xor K | [Problem](https://www.interviewbit.com/problems/subarray-with-given-xor/)
+- [x] Longest Substring without repeat | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ### Day-5: Linked List Part-I
 - [ ] Reverse a LinkedList
