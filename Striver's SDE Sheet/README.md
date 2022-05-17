@@ -33,12 +33,12 @@
 - [x] Longest Substring without repeat | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ### Day-5: Linked List Part-I
-- [ ] Reverse a LinkedList
-- [ ] Find the middle of LinkedList
-- [ ] Merge two sorted Linked List (use method used in mergeSort)
-- [ ] Remove N-th node from back of LinkedList
-- [ ] Add two numbers as LinkedList
-- [ ] Delete a given Node when a node is given.(0(1) solution)
+- [x] Reverse a LinkedList | [Problem](https://leetcode.com/problems/reverse-linked-list/)
+- [x] Find the middle of LinkedList | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] Merge two sorted Linked List (use method used in mergeSort) | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] Remove N-th node from back of LinkedList | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] Add two numbers as LinkedList | [Problem](https://leetcode.com/problems/add-two-numbers/)
+- [x] Delete a given Node when a node is given.(0(1) solution) | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 ### Day-6: Linked List Part-II
 - [ ] Find intersection point of Y LinkedList
