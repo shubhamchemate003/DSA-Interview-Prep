@@ -34,7 +34,7 @@
 
 ### Day-5: Linked List Part-I
 - [ ] Reverse a LinkedList
-  [ ] Find the middle of LinkedList
+- [ ] Find the middle of LinkedList
 - [ ] Merge two sorted Linked List (use method used in mergeSort)
 - [ ] Remove N-th node from back of LinkedList
 - [ ] Add two numbers as LinkedList
